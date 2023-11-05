@@ -1,0 +1,24 @@
+/*----------
+
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.main-links span.link{
+	cursor:pointer;
+}
+
+
+.main-links span i:hover{
+	transform:rotate(180deg);
+}
+	
+
+
+#dropdownMenuLink i:hover{
+		transform:rotate(180deg);
+}
+	
+*/
